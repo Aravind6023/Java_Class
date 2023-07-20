@@ -1,0 +1,34 @@
+//uniary operator
+class day2
+{
+	public static void main(string arg[])
+	{
+	  /*Uniary Operator
+	  int a=5;
+	  System.out.println("Increment");
+	  System.out.println(a++);
+	  System.out.println(a);
+	  System.out.println(++a);
+	  System.out.println("Decrement");
+	  System.out.println(--a);
+	  System.out.println(a);
+	  System.out.println(a--);
+	  */
+
+	 /*int a = 5;
+	 int b = -4;
+	 System.out.println("Tild and Exclaimity Symbol");
+	 System.out.println(--a);
+	 System.out.println(a);
+	 System.out.println(a--);
+	 System.out.println(a);
+	 System.out.println(~a);
+	 System.out.println(~b);
+	 System.out.println(!false);
+	 */
+
+	 int a = 5, b = 6;
+	 System.out.println(a<<b);
+	 System.out.println(a>>b);
+	 }
+}

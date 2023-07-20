@@ -1,0 +1,27 @@
+//Coding Practice - 1.6 [- 1]
+//6.1) Write a Java program to perform relational operations of two numbers.
+class kgm
+{
+	public static void main(String args[])
+	{
+		int a = 10, b = 2;
+		System.out.println("The entered value of a is : " + a);
+      		System.out.println("The entered value of b is : " + b);
+
+		System.out.println("The result of a > b is " + (a > b) );
+
+      		System.out.println("The result of a >= b is " + (a >= b) );
+
+      		System.out.println("The result of a == b is " + (a == b) );
+      		System.out.println("The result of a <= b is " + (a <= b) );
+      		System.out.println("The result of b == a is " + (b == a) );
+
+      		System.out.println("The result of b <= a is " + (b <= a) );
+	}
+}
+
+System.out.println("The result of a == b is " + (a == b) );
+      System.out.println("The result of a != b is " + (a != b) );
+      System.out.println("The result of a < b is " + (a < b) );
+      System.out.println("The result of b >= a is " + (b >= a) );
+      System.out.println("The result of b <= a is " + (b <= a) );

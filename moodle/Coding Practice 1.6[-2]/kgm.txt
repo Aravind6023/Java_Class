@@ -1,0 +1,12 @@
+//Coding Practice - 1.6 [- 2]
+//6.2) Write a Java program to perform Logical Operation (AND,OR,NOT).
+class kgm
+{
+	public static void main(String args[])
+	{
+		int a = 10, b = 2;
+		System.out.println(a = b && a = b);
+      		System.out.println(a = b || a = b);
+		System.out.println(a = b != a = b);
+	}
+}

@@ -1,0 +1,11 @@
+//Coding Practice - 1.1
+//1) Write a Java program to print 'Hello' on screen and then print the given line on a separate line.
+
+class codingpractice1.1
+{
+	public static void main(String args[])
+	{
+		System.out.println("Hello");
+		System.out.println("The World is Beautiful");
+	}
+}
